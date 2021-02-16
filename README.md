@@ -8,7 +8,7 @@ I didn't found any other installation for `solc` on RHEL based systems. All of t
 
 ### Usage
 
-#### Prerequisites
+#### Prerequisites
 
 - Docker
 - wget
